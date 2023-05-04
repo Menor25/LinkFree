@@ -1,0 +1,22 @@
+{
+  "name": "Theophilus Menor",
+  "type": "personal",
+  "bio": "ALX Software Engineering Graduate",
+  "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/devmenor",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "Follow me on Linkedin",
+      "url": "https://www.linkedin.com/in/theophilus-menor-a06b56b2/",
+      "icon": "FaLinkedin"
+    },
+    {
+      "name": "Follow me on Github",
+      "url": "https://www.github.com/Menor25",
+      "icon": "FaGithub"
+    }
+  ]
+}
